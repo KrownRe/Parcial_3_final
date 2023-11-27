@@ -127,5 +127,5 @@ ventana.mainloop()
 
 Este es un programa sencillo para leer cadenas de texto y definir si esta o no cada palabra en un diccionario o en forma de emojis
 Este trabajo fue desarrollado por
-Luis Miguel Giraldo D
+Luis Miguel Giraldo D //
 Leidy Gallo Vargas
