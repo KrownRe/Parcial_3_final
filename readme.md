@@ -10,6 +10,8 @@ Bienvenido al repositorio del "Traductor de Emojis", un programa desarrollado en
 2. [**Verificación de Palabras en Español (`palabrasRAE.py`)**](#verificación-de-palabras-en-español)
 3. [**Traductor con Expresiones Regulares (`traductor.py`)**](#traductor-con-expresiones-regulares)
 4. [**Interfaz Gráfica (`interfas.py`)**](#interfaz-gráfica)
+5. [**Conclusion**](#conclusion)
+6. [**Video Explicativo Codigo (#Video-Explicativo-Codigo)**](#video-explicativo-codigo)
 
 ## Diccionario de Emojis (`diccionario.py`)
 
@@ -129,3 +131,10 @@ Este es un programa sencillo para leer cadenas de texto y definir si esta o no c
 Este trabajo fue desarrollado por
 Luis Miguel Giraldo D //
 Leidy Gallo Vargas
+
+
+## Video Explicativo Codigo
+
+https://youtu.be/O-1lrGAm8PE
+
+
