@@ -123,9 +123,5 @@ ventana.mainloop()
 
 ```
 
-## Conclusiones
-
-En conclusión, el "Traductor de Emojis" es un programa que utiliza expresiones regulares y diccionarios para traducir abreviaturas de emojis a emojis reales. Además, el programa cuenta con una interfaz gráfica que permite al usuario ingresar texto y traducirlo. Este proyecto fue desarrollado por [**@josejbocanegra**](
-
 
 
